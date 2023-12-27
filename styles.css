@@ -1,0 +1,103 @@
+.contact-icon {
+    font-size: 24px; /* Adjust the font size as needed */
+    color: #007bff; /* Set the color as needed */
+    
+}
+
+#contact{
+    top: 10px;
+    left: 1050px;
+}
+
+.icon-down:before {
+    content: "\25BC";
+    float: right;
+    padding-right: 2.9cm;
+    padding-top: 0.5cm;
+}
+
+#button{
+    position: absolute;
+    top: 27px;
+    right: 40px;
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+    border: 0px;
+
+}
+
+#container{
+    
+    box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+}
+
+#text1{
+    padding-left: 30%;
+    font-size: 22px;
+    padding-top: 20px;
+    padding-left: 50%;
+    height: 10px;
+    
+}
+
+#btn2{
+    position: absolute;
+    right: 300px;
+    background-color: #007bff;
+    color: white;
+    border-radius: 10px;
+    border: 0px;
+    
+}
+#btn3{
+    position: absolute;
+    right: 90px;
+    background-color: #007bff;
+    color: white;
+    border-radius: 10px;
+    border: 0px;
+    
+}
+#btn4{
+    background-color: #007bff;
+    color: white;
+    border-radius: 10px;
+    border: 0px;
+    margin-right: 12px;
+    margin-top: 12px;
+}
+
+.tab{
+    margin-left: 6.5%;
+    margin-right: 6.5%;
+
+    margin-top: 5%;
+}
+
+th{
+    padding: 10cm;
+}
+
+#tdata th{
+    padding: 25px;
+}
+
+.tab{
+    font-size: 12px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 0.0625em 0.0625em, rgba(0, 0, 0, 0.25) 0px 0.125em 0.5em, rgba(255, 255, 255, 0.1) 0px 0px 0px 1px inset;
+}
+
+#trow td{
+    padding-left: 12px;
+    padding-right: 10px;
+    padding-bottom: 4px;
+}
+
+.tab tr:nth-child(odd) {
+    background-color: rgb(222, 239, 245);
+}
+
+.firstrow{
+    background-color: white;
+}
